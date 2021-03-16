@@ -76,7 +76,7 @@ This study will use a brief online survey to assess the extent to which pharmaci
 
 # Background
 
-Practitioners must assess the benefits and harms of medicines and other interventions in order to provide clinically appropriate advice.
+Practitioners must assess the benefits and harms of medicines and other therapeutic interventions in order to provide clinically appropriate advice.
 This involves critically appraising clinical evidence regarding drug treatments and appropriately interpreting the reported statistical results to inform inferences regarding the effects of drugs. 
 The appropriate interpretation of $p$-values and confidence intervals is essential to guide judicious therapeutic decision-making. 
 However, $p$-values and confidence intervals are often misinterpreted by researchers and practitioners [@Hemming2021; @Gigerenzer2004].
@@ -136,7 +136,8 @@ It contains:
 
 The survey text is provided in the [Appendix](#survey).
 
-The survey is currently being piloted in a small sample representative of prospective participants to ensure that the questions make sense and that the survey can be completed within the expected time.
+The survey is currently being piloted in a small sample representative of prospective participants to ensure that the questions make sense and that the survey can be completed within the expected time. Feedback from the pilot will be used to optimsie the survey.
+
 
 ## Participants
 
@@ -154,7 +155,7 @@ Recruitment for the three groups of participants will proceed as follows:
 
    Pharmacists will be recruited using three methods 
 
-   * social media (Twitter, Facebook)
+   *
    * professional networks of the investigators
    * invitation posted to the Blackboard Hub sites for students enrolled in the Intern Training Program and MClinPharm.
 
@@ -290,7 +291,7 @@ What is your age?
 - 30-39
 - 40-49
 - 50-59
-- > 60 
+- > 60 Oh God...this will be us soon Adam :(
 
 Which of the following best describes your primary job as a pharmacist? 
 
